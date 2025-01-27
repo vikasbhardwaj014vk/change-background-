@@ -1,0 +1,32 @@
+.button {
+  height: 80px;
+  width: 80px;
+  border-radius: 4px;
+  /* border: solid black; */
+  text-align: center;
+  text-justify: center;
+  align-items: center;
+  display: flex ;
+  justify-content: center;
+  justify-items: center;
+  margin: 0px;
+  padding: 0px;
+  color: aliceblue;
+ 
+}
+#red{
+    background-color: red;
+}
+#green{
+    background-color: green;
+}
+#blue{
+    background-color:blue;
+}
+#yellow{
+    background-color: yellow;
+}
+#black{
+    background-color:black;
+}
+
